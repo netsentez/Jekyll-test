@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Formül ve Kod Denemeleri!"
-date:   2025-09-02-formul-kod-deneme.markdown
+date:   2025-09-02 
 categories: jekyll test
 ---
 
