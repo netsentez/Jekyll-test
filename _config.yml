@@ -19,7 +19,6 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Jekyll-test
-title: "Blog Başlığı"
 markdown: kramdown
 highlighter: rouge
 
