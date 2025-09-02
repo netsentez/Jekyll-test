@@ -1,0 +1,18 @@
+/* Kod bloklarında yatay kaydırma */
+.highlight,
+pre,
+code {
+    white-space: pre;
+}
+
+.highlight,
+pre {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+/* Koyu temalarda okunabilirlik için (tema koyuysa) */
+/*
+.highlight { background: #f7f7f7; }
+pre code   { background: transparent; }
+*/
